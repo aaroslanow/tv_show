@@ -69,7 +69,7 @@ export function App(){
             <div className={style.header}>
                 <div className="row">
                     <div className="col-4">
-                        <Logo img={logoImg} title="costam" subtitle=" cocococ" />
+                        <Logo img={logoImg} title="WatchIt" subtitle=" Training react app by aaroslan" />
 
                     </div>
                     <div className ="col-md-12 col-lg-4">
